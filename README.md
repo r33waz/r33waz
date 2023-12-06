@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riwaz Thapa</h1>
-<h3 align="center">A passionate fullstack developer from Nepal.</h3>
+<h3 align="center">"Embarking on my coding journey as a budding Full Stack Developer 🚀 | Committing my dreams to code 💻 #NewbieDev #FullStackExplorer #GitHubAdventure"</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r33waz" alt="r33waz" /></a> </p>
 
@@ -19,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r33waz&show_icons=true&locale=en&layout=compact" alt="r33waz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r33waz&show_icons=true&locale=en" alt="r33waz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r33waz&" alt="r33waz" /></p>
 
