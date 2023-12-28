@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riwaz Thapa</h1>
 <h3 align="center">"Embarking on my coding journey as a budding Full Stack Developer 🚀 | Committing my dreams to code 💻 #NewbieDev #FullStackExplorer #GitHubAdventure"</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r33waz" alt="r33waz" /></a> </p>
+[
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r33waz" alt="r33waz" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 - 🌱 I’m currently learning **Nextjs,Nodejs**
 
