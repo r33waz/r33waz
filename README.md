@@ -58,7 +58,7 @@
   </a>
 </div>
 
-<br>
+<br clear="both">
 
 ![snake gif](https://github.com/r33waz/r33waz/blob/output/github-contribution-grid-snake.svg)
 
