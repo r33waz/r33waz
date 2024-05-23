@@ -1,4 +1,12 @@
-<p align="left">Hello World!!</p>
+# Hi there, I'm Riwaz Thapa! 👋
+
+Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspiring full stack developer specializing in the MERN stack. Hailing from the beautiful country of Nepal, I am on a journey to master the art of web development and create amazing applications.
+
+## My Goals
+
+- **Learn**: Continuously enhance my knowledge and skills in web development.
+- **Build**: Create meaningful projects that solve real problems and add value.
+- **Collaborate**: Work with other developers to learn, share ideas, and grow together.
 
 ###
 
