@@ -58,5 +58,7 @@
   </a>
 </div>
 
+###
+![snake gif](https://github.com/r33waz/r33waz/blob/output/github-contribution-grid-snake.gif)
 
 
