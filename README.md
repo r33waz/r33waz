@@ -60,8 +60,6 @@
 
 <br clear="both">
 
-## Snake having my contribution graph
 
-![snake gif](https://github.com/r33waz/r33waz/blob/output/github-contribution-grid-snake.svg)
 
 
