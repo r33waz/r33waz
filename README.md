@@ -46,9 +46,10 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 
 <img align="left" height="300" width="600" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 <br >
+
 ###
 
-<div align="right">
+<div align="">
   <a href="https://www.linkedin.com/in/riwaz-thapa-906170230/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
