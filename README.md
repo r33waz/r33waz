@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 
 <br clear="both">
 
-<img align="left" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpopulusengenharia.com.br%2Fchill-coding-programming-lo-fi-animation-%5Broyalty-free-stock-nn-18061620&psig=AOvVaw3RKX_k8o71yacJlbXp7yS8&ust=1721731791967000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCbufG8uocDFQAAAAAdAAAAABAP"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
 ###
 
