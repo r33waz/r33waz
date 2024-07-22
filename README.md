@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 - **Collaborate**: Work with other developers to learn, share ideas, and grow together.
 
 ###
-
+</br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
