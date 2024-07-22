@@ -44,7 +44,9 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 
 <br clear="both">
 
-<img align="center" height="300" width="600" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+<p align="center">
+  <img height="300" width="100%" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+</p>
 
 <br clear="both">
 
