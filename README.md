@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 - **Collaborate**: Work with other developers to learn, share ideas, and grow together.
 
 ###
-</br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -46,7 +45,7 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 <br clear="both">
 
 <img align="left" height="300" width="600" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
-
+<br >
 ###
 
 <div align="right">
