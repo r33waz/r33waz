@@ -72,12 +72,14 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="margin: 20px; text-align: center;">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="500">
   </div>
   <div style="margin: 20px; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
   </div>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+<br><br>
 
 
