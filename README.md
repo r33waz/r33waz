@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
 
 <br clear="both">
 
-<div style="display: flex;">
+<div style="display: flex; width:100% ">
   <div style="margin: 20px;">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="400">
   </div>
