@@ -26,6 +26,11 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate beginner and aspirin
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typeorm/FF7F00" height="40" alt="TypeORM logo" />
+
 </div>
 
 ###
