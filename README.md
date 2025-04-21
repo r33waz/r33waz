@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate and aspiring full-st
   <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typeorm/FF7F00" height="40" alt="TypeORM logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis logo" />
+
 
 </div>
 
