@@ -9,31 +9,10 @@ Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate and aspiring full-st
 - **Build**: Create meaningful projects that solve real problems and add value.
 - **Collaborate**: Work with other developers to learn, share ideas, and grow together.
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typeorm/FF7F00" height="40" alt="TypeORM logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis logo" />
+## 🧰 Tech Toolbox
 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,redux,git,github,vscode,figma,vercel,redis" />
 </div>
 
 ###
