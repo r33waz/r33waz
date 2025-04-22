@@ -1,7 +1,13 @@
 # Hi there, I'm Riwaz Thapa! 👋
 
 Welcome to my GitHub profile! I'm Riwaz Thapa, a passionate and aspiring full-stack developer specializing in the MERN stack. I am on a journey to master the art of web development and build innovative applications.
-#### Portfolio Link : <a href="https://portfolio-five-brown-32.vercel.app/" target="_blank">Portfolio</a>
+#### Portfolio Link: 
+<a href="https://portfolio-five-brown-32.vercel.app/" target="_blank">
+  <img src="https://cdn.pixabay.com/photo/2023/09/27/10/48/portfolio-8279357_1280.jpg" alt="portfolio image" style="width: 500px; height: auto;" />
+</a>
+
+
+
 
 ## My Goals
 
