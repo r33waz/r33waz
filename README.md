@@ -82,3 +82,9 @@ https://raw.githubusercontent.com/r33waz/r33waz/output/github-contribution-grid-
 
 ⭐ If you like my work, consider following me and checking out my
 repositories!
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/r33waz/r33waz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
