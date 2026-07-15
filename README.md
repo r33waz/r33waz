@@ -38,6 +38,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,redux,git,github,vscode,figma,vercel,redis" />
 </p>
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -61,13 +83,39 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🗓️ Detailed Commit & Contribution Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r33waz&repo=r33waz&theme=dracula&hide_border=true" alt="pinned repo" />
 </p>
 
-> To activate this, add the [snake workflow](https://github.com/Platane/snk) to your repo — it auto-generates this animation from your contribution graph.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r33waz&theme=dracula" alt="profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r33waz&theme=dracula" alt="commit/PR/issue stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r33waz&theme=dracula" alt="most committed languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r33waz&theme=dracula&utcOffset=5.75" alt="productive time" />
+</p>
+
+> These four cards come from the [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) project — they auto-generate on view, no setup needed beyond the username.
+
+---
+
+### 👾 Pac-Man Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/main/dist/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/dist/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
+</p>
+
+> This one needs a tiny one-time setup: add the [pacman-contribution-graph](https://github.com/matchai/pacman-contribution-graph) GitHub Action to a repo named exactly `r33waz/r33waz` (a "profile repo"). Once the workflow runs, it generates this animated SVG — Pac-Man eating through your contribution squares — and commits it automatically on a schedule.
 
 ---
 
