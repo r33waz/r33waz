@@ -119,15 +119,7 @@
 
 ---
 
-### 🏆 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r33waz&theme=dracula&hide_border=true&layout=compact" alt="wakatime stats" />
-</p>
-
-> Add a [WakaTime](https://wakatime.com/) integration to populate this with your real coding-time stats.
-
----
 
 ### 😄 A Little Fun
 
