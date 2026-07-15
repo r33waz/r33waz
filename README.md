@@ -1,15 +1,23 @@
-<h1 align="center">Hi, I'm Riwaz Thapa 👋</h1>
-<h3 align="center">Full-Stack Developer specializing in the MERN stack</h3>
+<h1 align="center">
+  Hi there, I'm Riwaz Thapa
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+</h1>
+
+<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  I build clean, scalable web applications — from polished React front ends to robust Node.js back ends.
-  Currently focused on sharpening my frontend architecture skills and shipping production-grade features.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+React+%26+TypeScript;Crafting+scalable+MERN+apps;Always+learning%2C+always+shipping;Welcome+to+my+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-five-brown-32.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=r33waz&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/r33waz?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
 </p>
 
 ---
@@ -24,7 +32,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,redux,git,github,vscode,figma,vercel,redis" />
@@ -53,6 +61,35 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> To activate this, add the [snake workflow](https://github.com/Platane/snk) to your repo — it auto-generates this animation from your contribution graph.
+
+---
+
+### 🏆 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r33waz&theme=dracula&hide_border=true&layout=compact" alt="wakatime stats" />
+</p>
+
+> Add a [WakaTime](https://wakatime.com/) integration to populate this with your real coding-time stats.
+
+---
+
+### 😄 A Little Fun
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" height="220">
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -68,6 +105,9 @@
   <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://wa.me/9779861496098" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! ✨</i></p>
