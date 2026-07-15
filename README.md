@@ -161,42 +161,4 @@
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! ✨</i></p>
 
----
 
-<details>
-<summary>⚙️ One-time setup for the Pac-Man graph and summary cards (click to expand)</summary>
-
-Both widgets are already wired up via the two workflow files in `.github/workflows/`, but they only work once they live in a **profile repo** — a repo named exactly the same as your GitHub username.
-
-**1. Create the profile repo (skip if you already have one)**
-- Create a new public repo named exactly `r33waz` (so it's `r33waz/r33waz`)
-- Check "Add a README file" when creating it
-
-**2. Add these files to that repo**
-- Copy `.github/workflows/pacman-contribution-graph.yml` into the repo
-- Copy `.github/workflows/profile-summary-cards.yml` into the repo
-- Copy this `README.md` into the repo root (replacing the default one)
-
-**3. Create a Personal Access Token (needed only for the summary cards)**
-- Go to GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
-- Generate a new token with scopes: `repo` and `read:user`
-- Copy the token — you won't see it again
-
-**4. Add the token as a repo secret**
-- In the `r33waz/r33waz` repo → Settings → Secrets and variables → Actions → New repository secret
-- Name: `SUMMARY_GITHUB_TOKEN`
-- Value: paste the token from step 3
-
-**5. Run the workflows**
-- Go to the repo's Actions tab
-- Select "Generate Pac-Man Contribution Graph" → Run workflow
-- Select "GitHub Profile Summary Cards" → Run workflow
-- Wait a minute or two for both to finish (green checkmark = success)
-
-**6. Verify the output**
-- Pac-Man: check that an `output` branch now exists in the repo, containing `pacman-contribution-graph.svg`
-- Summary cards: check that a `profile-summary-card-output/dracula/` folder now exists on `main`, containing the five SVG files
-
-Once both have run at least once, the images in this README will load correctly on your GitHub profile page. They'll keep refreshing automatically on the schedule set in each workflow (`cron`), or anytime you re-run them manually.
-
-</details>
