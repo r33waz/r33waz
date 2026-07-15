@@ -90,19 +90,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r33waz&theme=dracula" alt="profile summary" />
+  <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="profile summary" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r33waz&theme=dracula" alt="commit/PR/issue stats" />
+  <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/profile-summary-card-output/dracula/3-stats.svg" alt="commit/PR/issue stats" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r33waz&theme=dracula" alt="most committed languages" />
+  <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="most committed languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r33waz&theme=dracula&utcOffset=5.75" alt="productive time" />
+  <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" />
 </p>
 
-> These four cards come from the [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) project — they auto-generate on view, no setup needed beyond the username.
+> Powered by the included `.github/workflows/profile-summary-cards.yml` workflow. It commits these SVGs to a `profile-summary-card-output/dracula/` folder in your repo — see setup steps below.
 
 ---
 
@@ -110,16 +110,25 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/main/dist/pacman-contribution-graph-dark.svg">
-    <img src="https://raw.githubusercontent.com/r33waz/r33waz/main/dist/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r33waz/r33waz/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/r33waz/r33waz/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
   </picture>
 </p>
 
-> This one needs a tiny one-time setup: add the [pacman-contribution-graph](https://github.com/matchai/pacman-contribution-graph) GitHub Action to a repo named exactly `r33waz/r33waz` (a "profile repo"). Once the workflow runs, it generates this animated SVG — Pac-Man eating through your contribution squares — and commits it automatically on a schedule.
+> Powered by the included `.github/workflows/pacman-contribution-graph.yml` workflow. Once it runs, it generates and pushes the animated SVG to an `output` branch — see setup steps below.
 
 ---
 
+### 🏆 Coding Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r33waz&theme=dracula&hide_border=true&layout=compact" alt="wakatime stats" />
+</p>
+
+> Add a [WakaTime](https://wakatime.com/) integration to populate this with your real coding-time stats.
+
+---
 
 ### 😄 A Little Fun
 
@@ -151,3 +160,43 @@
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! ✨</i></p>
+
+---
+
+<details>
+<summary>⚙️ One-time setup for the Pac-Man graph and summary cards (click to expand)</summary>
+
+Both widgets are already wired up via the two workflow files in `.github/workflows/`, but they only work once they live in a **profile repo** — a repo named exactly the same as your GitHub username.
+
+**1. Create the profile repo (skip if you already have one)**
+- Create a new public repo named exactly `r33waz` (so it's `r33waz/r33waz`)
+- Check "Add a README file" when creating it
+
+**2. Add these files to that repo**
+- Copy `.github/workflows/pacman-contribution-graph.yml` into the repo
+- Copy `.github/workflows/profile-summary-cards.yml` into the repo
+- Copy this `README.md` into the repo root (replacing the default one)
+
+**3. Create a Personal Access Token (needed only for the summary cards)**
+- Go to GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+- Generate a new token with scopes: `repo` and `read:user`
+- Copy the token — you won't see it again
+
+**4. Add the token as a repo secret**
+- In the `r33waz/r33waz` repo → Settings → Secrets and variables → Actions → New repository secret
+- Name: `SUMMARY_GITHUB_TOKEN`
+- Value: paste the token from step 3
+
+**5. Run the workflows**
+- Go to the repo's Actions tab
+- Select "Generate Pac-Man Contribution Graph" → Run workflow
+- Select "GitHub Profile Summary Cards" → Run workflow
+- Wait a minute or two for both to finish (green checkmark = success)
+
+**6. Verify the output**
+- Pac-Man: check that an `output` branch now exists in the repo, containing `pacman-contribution-graph.svg`
+- Summary cards: check that a `profile-summary-card-output/dracula/` folder now exists on `main`, containing the five SVG files
+
+Once both have run at least once, the images in this README will load correctly on your GitHub profile page. They'll keep refreshing automatically on the schedule set in each workflow (`cron`), or anytime you re-run them manually.
+
+</details>
